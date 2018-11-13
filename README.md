@@ -10,6 +10,8 @@
 
 ...
 
+Former des groupes de 1-3 personnes.
+
 **Gestion des sources:**  
 
 Vous avez 2 choix possibles pour partager les sources de vos projets:  
