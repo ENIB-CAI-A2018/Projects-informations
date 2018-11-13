@@ -22,7 +22,7 @@ L'intéret des ces 2 possibilités est l'utilsation de Git pour la gestion des s
 De plus, vous pouvez utiliser les 'issues' afin de définir votre projet, découper/attribuer les tâches entre vous.  
 Nous vous conseillons la première possibilité car elle vous permettera d'avoir une 'vitrine' de votre travail et de pouvoir le montrer à différentes personnes.  
 
-### Idées de projet
+## Idées de projet
 
 **MusicBand:**
 Mets ton nom, ton instrument, ton style de musique et ta position et trouve d’autre musiciens avec qui jouer autour de chez toi.
